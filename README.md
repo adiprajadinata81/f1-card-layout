@@ -9,8 +9,7 @@ Each card is designed to be clean, responsive, and easy to customize, making it 
 
 ## 🚀 Preview
 
-![Preview Screenshot](./preview.png)  
-*(Tambahkan screenshot layout di sini, misalnya hasil capture halaman utama.)*
+![Preview Screenshot](./2232702937.jpg)
 
 ---
 
