@@ -10,9 +10,3 @@ Each card is designed to be clean, responsive, and easy to customize, making it 
 ## 🚀 Preview
 
 ![Preview Screenshot](./2232702937.jpg)
-
----
-
-## 📂 Project Structure
-
-
